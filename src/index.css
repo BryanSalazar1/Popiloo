@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ring: 59 130 246; /* azul */
+}
+
+* { box-sizing: border-box; }
